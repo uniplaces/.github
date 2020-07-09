@@ -1,0 +1,11 @@
+{
+    "name": "Uniplaces PHP CI Workflow",
+    "description": "Uniplaces PHP CI workflow template.",
+    "iconName": "php-icon",
+    "categories": [
+        "PHP"
+    ],
+    "filePatterns": [
+        "composer.json$"
+    ]
+}
