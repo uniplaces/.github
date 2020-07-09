@@ -1,4 +1,4 @@
-# Uniplaces Github Templates
+# Github Templates for Uniplaces
 
 ## Github Actions templates
 
