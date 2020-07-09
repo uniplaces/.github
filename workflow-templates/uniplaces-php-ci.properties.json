@@ -1,7 +1,7 @@
 {
     "name": "Uniplaces PHP CI Workflow",
     "description": "Uniplaces PHP CI workflow template.",
-    "iconName": "octicon:checklist",
+    "iconName": "php-icon",
     "categories": [
         "PHP"
     ],
